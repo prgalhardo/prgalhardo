@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**prgalhardo/prgalhardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align='center'>
+Hi there! Welcome to my profile! 👋:slightly_smiling_face:
+</h2>
+<p align="center">
+ <a href="https://www.linkedin.com/in/priscila-silva-8bb1565a/" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+</p>
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&langs_count=8'>
+</p>
+<p align="center"> 
+ 
+  <a href="https://www.codewars.com/users/prgalhardo" target="_blank">
+    <img width="165" src="https://www.codewars.com/users/prgalhardo/badges/micro" />
+  </a>
+  
+</p>
