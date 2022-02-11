@@ -2,17 +2,15 @@
 Hi there! Welcome to my profile! 👋:slightly_smiling_face:
 </h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/priscila-silva-8bb1565a/" >
+ <a href="linkedin.com/in/prgalhardo" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 </p>
 <p align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&langs_count=8'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&langs_count=8'>
 </p>
 <p align="center"> 
- 
-  <a href="https://www.codewars.com/users/prgalhardo" target="_blank">
-    <img width="165" src="https://www.codewars.com/users/prgalhardo/badges/micro" />
-  </a>
-  
+<a href="https://www.codewars.com/users/prgalhardo" target="_blank">
+ <img width="165" src="https://www.codewars.com/users/prgalhardo/badges/micro" />
+</a>
 </p>
