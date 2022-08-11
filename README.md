@@ -7,7 +7,7 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
  </a>
 </p>
 <p align='center'>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&langs_count=8'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo'>
 </p>
 <p align="center"> 
 <a href="https://www.codewars.com/users/prgalhardo" target="_blank">
