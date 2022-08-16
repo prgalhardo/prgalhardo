@@ -11,7 +11,7 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
  <a href="https://www.linkedin.com/in/prgalhardo/" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
-<a href="mailto:<a href="mailto:priscilacds_100@yahoo.com.br">
+<a href="mailto:priscilacds_100@yahoo.com.br">
 <img src="https://img.shields.io/badge/Yahoo-993399?style=for-the-badge&logo=yahoo&logoColor=white" />
 </a>
 </p>
