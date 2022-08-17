@@ -5,7 +5,7 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/prgalhardo?v=3)
 
-<p>I'm a full stack programmer in career transition, but passionate about back-end. I also have a degree in Business Administration and have experience in the commercial area.</p>
+<p>I'm a full-stack programmer in career transition, more passionate about the back-end skills. I also have a degree in Business Administration with experience in the commercial area.</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/prgalhardo/" >
