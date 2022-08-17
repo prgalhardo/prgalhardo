@@ -12,7 +12,7 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 <a href="mailto:priscilacds_100@yahoo.com.br">
-<img src="https://img.shields.io/badge/Yahoo-993399?style=for-the-badge&logo=yahoo&logoColor=white" />
+<img src="https://img.shields.io/badge/priscilacds_100@yahoo.com.br-993399?style=for-the-badge&logo=yahoo&logoColor=white" />
 </a>
 </p>
 <p align='center'>
