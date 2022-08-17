@@ -19,8 +19,3 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
 <img src="https://github-readme-stats.vercel.app/api?username=prgalhardo&show_icons=true&theme=default" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&layout=compact'>
 </p>
-<p align="center"> 
-<a href="https://www.codewars.com/users/prgalhardo" target="_blank">
- <img width="165" src="https://www.codewars.com/users/prgalhardo/badges/micro" />
-</a>
-</p>
