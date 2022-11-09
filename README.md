@@ -16,6 +16,6 @@ Hi there! Welcome to my profile! 👋:slightly_smiling_face:
 </a>
 </p>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=prgalhardo&show_icons=true&theme=default" />
+<img src='https://github-readme-stats.vercel.app/api?username=prgalhardo&show_icons=true&theme=transparent'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prgalhardo&layout=compact'>
 </p>
