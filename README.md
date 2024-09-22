@@ -1,5 +1,5 @@
 <h2 align='center'>
-Hi there! Welcome to my profile! 👋:slightly_smiling_face:
+Hi there! Welcome to my profile! 👋
 </h2>
 
 
